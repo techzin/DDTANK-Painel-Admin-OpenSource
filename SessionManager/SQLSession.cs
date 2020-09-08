@@ -11,6 +11,7 @@ namespace DDTANK_Painel_Admin.SessionManager
         public static string ServerName;
         public static string UserName;
         public static string Passwd;
+        public static string Database;
 
     }
 }
