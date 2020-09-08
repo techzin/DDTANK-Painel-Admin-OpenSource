@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDTANK-Painel-Admin", "DDTANK-Painel-Admin.csproj", "{1857A616-46D8-43B7-85C6-824D137074AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDTank SQL Manager", "DDTank SQL Manager.csproj", "{1857A616-46D8-43B7-85C6-824D137074AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

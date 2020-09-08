@@ -1,0 +1,15 @@
+
+*.cache
+*.pdb
+.vs/DDTank SQL Manager/v16/.suo
+.vs/DDTANK-Painel-Admin/v16/.suo
+*.exe
+*.config
+obj/Debug/DDTank SQL Manager.csproj.FileListAbsolute.txt
+obj/Debug/DDTANK-Painel-Admin.csproj.FileListAbsolute.txt
+*.cache
+*.cache
+obj/Debug/DDTANK-Painel-Admin.csprojAssemblyReference.cache
+obj/Debug/DDTANK_Painel_Admin.Properties.Resources.resources
+obj/Debug/DDTANK_Painel_Admin.Form1.resources
+obj/Debug/DDTANK-Painel-Admin.csprojAssemblyReference.cache
